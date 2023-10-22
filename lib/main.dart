@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     print('hello world');
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'dfghjhgf',
       theme: ThemeData(
         // This is the theme of your application.
         //
